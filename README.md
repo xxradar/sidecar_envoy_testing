@@ -1,5 +1,10 @@
 # sidecar_envoy_testing
 
+## Create an envoy container image
+```
+docker build -t xxradar/envoy .
+```
+
 ## start a normal container
 
 ```
